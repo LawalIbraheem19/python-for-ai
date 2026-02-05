@@ -56,4 +56,5 @@ poodle = Dog(name="Max", breed="Poodle")
 
 print(golden.describe())  # Buddy is a Golden Retriever
 print(golden.is_pet)      # True (inherited from Animal)
+print(poodle.describe())
     
